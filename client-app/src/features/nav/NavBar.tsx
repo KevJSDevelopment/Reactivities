@@ -1,5 +1,5 @@
 import React from "react";
-import { Menu, Container, Button } from "semantic-ui-react";
+import {  Container, Button, Menu } from "semantic-ui-react";
 
 interface IProps {
   openCreateForm: () => void;
